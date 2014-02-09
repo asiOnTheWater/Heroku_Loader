@@ -1,5 +1,5 @@
 {
-  "name": "node_loader",
+  "name": "Heroku_Loader",
   "version": "0.0.1",
   "description": "test app",
   "main": "app.js",
