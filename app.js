@@ -6,8 +6,8 @@ app.get('/endpoint', function(req, res) {
   res.send("Hey", 200);
 });
 
-app.get('/loaderio-851e087db4027ebd1f790f2a07daa019', function(req, res) {
-  res.send("loaderio-851e087db4027ebd1f790f2a07daa019", 200);
+app.get('/loaderio-44003e740fcbcfdbf4d63612f8971ec8', function(req, res) {
+  res.send("loaderio-44003e740fcbcfdbf4d63612f8971ec8", 200);
 });
 
 app.listen(PORT);
