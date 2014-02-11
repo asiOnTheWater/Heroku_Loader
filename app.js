@@ -7,7 +7,7 @@ app.get('/endpoint', function(req, res) {
 });
 
 app.get('/loaderio-44003e740fcbcfdbf4d63612f8971ec8', function(req, res) {
-  res.send("loaderio-44003e740fcbcfdbf4d63612f8971ec8", 200);
+  res.send("loaderio-44003e740fcbcfdbf4d63612f8971ec8/v2/versions", 200);
 });
 
 app.listen(PORT);
